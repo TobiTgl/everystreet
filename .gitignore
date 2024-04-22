@@ -3,4 +3,4 @@
 .python-version
 cache/
 libs/__pycache__/
-/imgs
+/images
