@@ -1,4 +1,4 @@
-from osmnx.plot import plot_graph, _save_and_show
+from src.osmnx.osmnx.plot import plot_graph, _save_and_show
 
 
 def plot_graph_route(
