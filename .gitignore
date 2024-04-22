@@ -4,3 +4,5 @@
 cache/
 libs/__pycache__/
 /images
+.idea
+.vscode
